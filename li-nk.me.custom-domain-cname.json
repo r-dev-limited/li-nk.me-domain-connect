@@ -8,7 +8,7 @@
   "description": "Configures a CNAME record for a branded LinkMe custom domain.",
   "variableDescription": "%subdomain%: the subdomain label to create (for example, link); %cname%: LinkMe CNAME target host.",
   "syncBlock": false,
-  "syncPubKeyDomain": "_dcpubkeyv1.li-nk.me",
+  "syncPubKeyDomain": "li-nk.me",
   "records": [
     {
       "type": "CNAME",
